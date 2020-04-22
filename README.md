@@ -1,6 +1,6 @@
-# AngularNebular
+# Angular & Nebular project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.2 and [Nebular](https://github.com/akveo/ngx-admin) version 5.0.0
 
 ## Development server
 
