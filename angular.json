@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-nebular"
+    }
+  },
+  "defaultProject": "angular-nebular",
+  "cli": {
+    "analytics": "e421e7d8-d146-4e41-b5f7-89bf46012ce6"
+  }
 }
